@@ -2,15 +2,15 @@
 
 var GetIntrinsic = require('get-intrinsic');
 
-var ArraySpeciesCreate = require('es-abstract/2023/ArraySpeciesCreate');
-var CreateDataPropertyOrThrow = require('es-abstract/2023/CreateDataPropertyOrThrow');
-var Get = require('es-abstract/2023/Get');
-var HasProperty = require('es-abstract/2023/HasProperty');
-var LengthOfArrayLike = require('es-abstract/2023/LengthOfArrayLike');
-var Set = require('es-abstract/2023/Set');
-var ToIntegerOrInfinity = require('es-abstract/2023/ToIntegerOrInfinity');
+var ArraySpeciesCreate = require('es-abstract/2024/ArraySpeciesCreate');
+var CreateDataPropertyOrThrow = require('es-abstract/2024/CreateDataPropertyOrThrow');
+var Get = require('es-abstract/2024/Get');
+var HasProperty = require('es-abstract/2024/HasProperty');
+var LengthOfArrayLike = require('es-abstract/2024/LengthOfArrayLike');
+var Set = require('es-abstract/2024/Set');
+var ToIntegerOrInfinity = require('es-abstract/2024/ToIntegerOrInfinity');
 var ToObject = require('es-object-atoms/ToObject');
-var ToString = require('es-abstract/2023/ToString');
+var ToString = require('es-abstract/2024/ToString');
 
 var callBound = require('call-bind/callBound');
 var $Object = require('es-object-atoms');
