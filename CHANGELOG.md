@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.3](https://github.com/es-shims/Array.prototype.slice/compare/v1.0.2...v1.0.3) - 2024-03-20
+
+### Commits
+
+- [Deps] update `call-bind`, `define-properties`, `es-abstract`, `get-intrinsic` [`a5b7974`](https://github.com/es-shims/Array.prototype.slice/commit/a5b7974ee745141fff3c462c47c945c12217abe2)
+- [actions] use reusable workflows [`fa342a6`](https://github.com/es-shims/Array.prototype.slice/commit/fa342a60d24bf31d05b5e4a0feada05c87d0678a)
+- [Refactor] use `es-object-atoms` where possible [`a4ef5e7`](https://github.com/es-shims/Array.prototype.slice/commit/a4ef5e73fc2d20891f8feda840bb25fb9a9f5c25)
+- [Dev Deps] update `aud`, `npmignore`, `tape` [`4d60b99`](https://github.com/es-shims/Array.prototype.slice/commit/4d60b9945796c56a010075db6f2cbef02ab05448)
+- [Dev Deps] update `tape` [`b20bc39`](https://github.com/es-shims/Array.prototype.slice/commit/b20bc399b75b20c86b7f3b163de65bf96de1d623)
+
 ## [v1.0.2](https://github.com/es-shims/Array.prototype.slice/compare/v1.0.1...v1.0.2) - 2023-08-30
 
 ### Commits
